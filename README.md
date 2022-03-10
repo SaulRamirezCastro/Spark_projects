@@ -1,2 +1,2 @@
 # Spark_projects
-Personal Project for sefl traning using spark
+Personal Project for self  training using spark
